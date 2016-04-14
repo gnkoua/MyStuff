@@ -5,7 +5,7 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("hello worlg");
+            System.Console.WriteLine("Hello world");
         }
     }
 }
